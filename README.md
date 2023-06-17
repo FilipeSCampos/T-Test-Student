@@ -15,7 +15,7 @@ O código lê os dados das ações da NVIDIA e AMD de arquivos CSV, faz a imputa
 2. Clone este repositório:
 
 ```
-git clone https://github.com/seu-usuario/nvidia-amd-teste-hipotese.git
+git clone https://github.com/seu-usuario/T-Test-Student.git
 ```
 
 3. Instale as dependências necessárias:
