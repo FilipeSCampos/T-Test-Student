@@ -14,13 +14,13 @@ O código lê os dados das ações da NVIDIA e AMD de arquivos CSV, faz a imputa
 
 2. Clone este repositório:
 
-´´´
+```
 git clone https://github.com/seu-usuario/nvidia-amd-teste-hipotese.git
-´´´
+```
 
 3. Instale as dependências necessárias:
 
-´´´
+```
 import pandas as pd
 import scipy 
 from statistics import stdev 
@@ -29,16 +29,16 @@ from scipy import stats
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import t
-´´´
+```
 
 5. Coloque os arquivos CSV contendo os dados das ações da NVIDIA e AMD na raiz do diretório do projeto. Certifique-se de nomear os arquivos corretamente como `NVIDIA (1999-2023).csv` e `AMD (1980-2023).csv`.
 
 6. Execute o código Python:
 
-´´´
+```
 python Teste T.ipynb
 
-´´´
+```
 
 
 7. O código exibirá a estatística t, os graus de liberdade, o valor crítico de t e o valor p obtidos no teste de hipótese. Além disso, ele plotará gráficos para visualizar os dados e a distribuição normal com o valor da estatística t marcado.
