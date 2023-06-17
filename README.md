@@ -50,16 +50,20 @@ python Teste T.ipynb
 Os resultados do teste de hipótese indicarão se há diferença significativa entre as médias das ações da NVIDIA e AMD durante a pandemia.
 
 T-statistc: 33.12634819243399
+
 Degrees of freedom: 1648
+
 T-critical value: 1.645778767293261
+
 P-value: 0.0
 
 T-statistic: 33.12634819243399
+
 P-value: 7.239358972768469e-185
 
 Como podemos ver, devemos descartar a Hipotese 0 
 
-![image](https://github.com/FilipeSCampos/T-Test-Student/assets/113521439/90fbc54c-6b5a-4964-96d3-866bd860c080)
+![image](https://github.com/FilipeSCampos/T-Test-Student/assets/113521439/f4d71215-4f98-4f60-8608-6e4d3bce7237)
 
 
 ## Contribuições
